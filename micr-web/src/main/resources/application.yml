@@ -1,0 +1,52 @@
+spring:
+  application:
+    name: micr-web
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+  redis:
+    host: localhost
+    port: 6379
+
+server:
+  port: 8000
+  servlet:
+    context-path: /api
+    encoding:
+      charset: utf-8
+      enabled: true
+      force: true
+
+# dubbo配置
+dubbo:
+  registry:
+    address: zookeeper://localhost:2181
+  scan:
+    base-packages: com.hh.front
+  consumer:
+    check: false
+    retries: 0
+    timeout: 500000
+  config-center:
+    timeout: 500000
+
+# 短信接口配置
+hh:
+ sms:
+  url: https://way.jd.com/chuangxin/dxjk
+  appKey: 3680fa919b771148da626bbcbd459475
+  content: 【HH科技】您的验证码是%s, 3分钟之内有效，请不要泄露给他人
+  login-text: 【HH科技】您的登录验证码是%s, 3分钟之内有效，请不要泄露给他人
+
+ realname:
+    url: http://idenauthen.market.alicloudapi.com/idenAuthentication
+    appkey: e1b54484e3d347afaab50f8c510e44ce
+
+jwt:
+  secret: fcca60c8adf24998b8faf2788e170118
+
+
+
+
+

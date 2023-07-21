@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="kq-demo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1254e983-d071-4ab0-b93b-dd2da9ae06f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/src/views/AboutView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/src/views/HomeView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fron-project/licai/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fron-project/licai" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven-work/apache-maven-3.8.7" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\maven-work\apache-maven-3.8.7\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2SCYmvaKvPktl8AMyvKfkK18o00" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "8",
+    "last_opened_file_path": "C:/Users/86176/Desktop/zfb/micr-pay/src/main/java/com/hh/pay/util",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "a0c016e06df593567d7a0ecc5edfddce"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86176\Desktop\zfb\micr-pay\src\main\java\com\hh\pay\util" />
+      <recent name="C:\Users\86176\Desktop\kq-demo\src\main\java\Util" />
+      <recent name="C:\Users\86176\Desktop\kq-demo\src\main\webapp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hh" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hh.front.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.micr-dataservice">
+    <configuration name="JwtTest.testReadJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micr-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hh" />
+      <option name="MAIN_CLASS_NAME" value="com.hh.JwtTest" />
+      <option name="METHOD_NAME" value="testReadJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micr-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hh" />
+      <option name="MAIN_CLASS_NAME" value="com.hh.MyTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicrPayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="micr-pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hh.MicrPayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicrTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="micr-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hh.MicrTaskApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="micr-dataservice" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="micr-dataservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hh.dataservice.MicrDataserviceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hh.dataservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="micr-web" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="micr-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hh.front.MicrWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="kq-demo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/kq" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="b11a25c1-552a-4bfb-b2e6-f386de64014a" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53173" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="kq-demo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyTest.test01" />
+      <item itemvalue="JUnit.JwtTest.testReadJwt" />
+      <item itemvalue="Spring Boot.micr-web" />
+      <item itemvalue="Spring Boot.MicrPayApplication" />
+      <item itemvalue="Spring Boot.MicrTaskApplication" />
+      <item itemvalue="Spring Boot.micr-dataservice" />
+      <item itemvalue="Tomcat Server.Tomcat 9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MicrPayApplication" />
+        <item itemvalue="Spring Boot.micr-dataservice" />
+        <item itemvalue="Spring Boot.MicrTaskApplication" />
+        <item itemvalue="JUnit.MyTest.test01" />
+        <item itemvalue="JUnit.JwtTest.testReadJwt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1254e983-d071-4ab0-b93b-dd2da9ae06f5" name="Changes" comment="" />
+      <created>1688652195524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688652195524</updated>
+      <workItem from="1688652197354" duration="5000" />
+      <workItem from="1688883484710" duration="11000" />
+      <workItem from="1688883510691" duration="109000" />
+      <workItem from="1688883688551" duration="3295000" />
+      <workItem from="1688956656856" duration="5749000" />
+      <workItem from="1688967885341" duration="5398000" />
+      <workItem from="1689049260238" duration="5016000" />
+      <workItem from="1689137084419" duration="2574000" />
+      <workItem from="1689144455579" duration="1033000" />
+      <workItem from="1689220782844" duration="13228000" />
+      <workItem from="1689237480745" duration="481000" />
+      <workItem from="1689315054171" duration="1417000" />
+      <workItem from="1689396185613" duration="9289000" />
+      <workItem from="1689485947190" duration="2128000" />
+      <workItem from="1689564678449" duration="11941000" />
+      <workItem from="1689653683700" duration="15518000" />
+      <workItem from="1689730628974" duration="19642000" />
+      <workItem from="1689758941414" duration="201000" />
+      <workItem from="1689762688070" duration="7013000" />
+      <workItem from="1689827715410" duration="14496000" />
+      <workItem from="1689861465528" duration="46000" />
+      <workItem from="1689904492193" duration="21671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zfb$micr_dataservice.ic" NAME="micr-dataservice Coverage Results" MODIFIED="1689767204989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hh.dataservice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/zfb$AxiosDemoApplication.ic" NAME="AxiosDemoApplication Coverage Results" MODIFIED="1688885101590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hh.axiosdemo.*</FILTER>
+    </SUITE>
+  </component>
+</project>

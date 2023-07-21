@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="micr-web:war">
+    <output-path>$PROJECT_DIR$/micr-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>micr-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="micr-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="micr-web:war exploded" />
+    </root>
+  </artifact>
+</component>
